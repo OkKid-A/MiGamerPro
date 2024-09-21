@@ -1,0 +1,9 @@
+export enum Roles{
+  MO_USER = "",
+  INVITADO = "INVITADO",
+  INVENTARIO = "INVENTARIO",
+  ADMIN = "ADMIN",
+  CLIENTE = "CLIENTE",
+  BODEGA = "BODEGA",
+  CAJERO = "CAJERO"
+}
